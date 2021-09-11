@@ -13,8 +13,8 @@
 
 theme: jekyll-agency
 
-url    : "http://127.0.0.1:4000" 
-baseurl: "" 
+url    : "https://needleworm.github.io" 
+baseurl: "/gunbam" 
 
 title      : Gunbam Company
 email      : bhban@kakao.com 
