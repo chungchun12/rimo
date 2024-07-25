@@ -13,13 +13,13 @@
 
 theme: jekyll-agency
 
-url    : "https://needleworm.github.io" 
-baseurl: "/gunbam" 
+url    : "https://chungchun12.github.io" 
+baseurl: "/chungchun12" 
 
 title      : Gunbam Company
 email      : bhban@kakao.com 
-description: "군밤을 사랑하는 사람 중에 나쁜 사람은 없어요"
-author     : 군밤사장
+description: "캥거루를 사랑하는 사람 중에 나쁜 사람은 없어요"
+author     : 7월의 꿈
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
