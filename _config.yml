@@ -16,9 +16,9 @@ theme: jekyll-agency
 url    : "https://chungchun12.github.io" 
 baseurl: "/chungchun12" 
 
-title      : Kangaroo Company
+title      : marimo Company
 email      : bhban@kakao.com 
-description: "캥거루를 사랑하는 사람 중에 나쁜 사람은 없어요"
+description: "마리모를 사랑하는 사람 중에 나쁜 사람은 없어요"
 author     : 7월의 꿈
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
